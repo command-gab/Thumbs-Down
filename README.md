@@ -1,11 +1,7 @@
-![21 Savage](public/21savage.jpg)
+## Project: Thumbs Down
+For this project, we had to make the thumbs down and trash can functional. 
 
-## Installation
+## Details
+Languages used — Front-end: EJS, CSS, JavaScript. Back-end: Node.js, Express.js, MongoDB.
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+![thumbs-down](https://user-images.githubusercontent.com/88905557/138360872-d74174e9-fdd5-4333-bd34-2e590f9fb43a.png)
