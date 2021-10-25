@@ -5,7 +5,7 @@ const MongoClient = require('mongodb').MongoClient
 
 // intentional use of var, for scoping
 let db, collection;
-const url = ""
+const url = "mongodb+srv://commandgab:Testing4@cluster0.cev5m.mongodb.net/thumbsDown?retryWrites=true&w=majority";
 const dbName = 'thumbsDown';
 
 // setting up server to listen on 3000 + everything it needs to connect to DB then logs confirmations
